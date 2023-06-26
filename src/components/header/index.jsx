@@ -19,7 +19,7 @@ const Header = ({ logo, menuItem }) => {
                     <li><a href="#">GiftBoxes</a></li>
                 </ul>
             </nav>
-            {/*<CartWidget />   */}
+            <CartWidget />
         </header>
     )
 }
