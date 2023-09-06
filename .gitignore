@@ -23,4 +23,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-.ReactJs_47160/
+.ReactJs_47160/*
+ReactJs_47160
